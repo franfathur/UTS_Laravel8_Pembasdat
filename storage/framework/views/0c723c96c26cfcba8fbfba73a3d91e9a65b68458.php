@@ -1,0 +1,1 @@
+<a wire:click="logout" class="dropwdown-item">Log out</a><?php /**PATH B:\Fatur File\xampp\htdocs\cartmaster\cartmaster\resources\views/livewire/auth/logout.blade.php ENDPATH**/ ?>
